@@ -1,5 +1,5 @@
 # React Components and Styling:
-### Code Sandbox Live Site URL: https://codesandbox.io/s/react-components-practice-2su35
+### Code Sandbox Live Site URL: https://codesandbox.io/s/github/basuabhirup/react-components
 
 <div align="center">
   <img src="https://i.ibb.co/7rMZJXC/image.png" width=640px alt="Project Screentshot">
