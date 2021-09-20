@@ -1,4 +1,10 @@
 # React Components and Styling:
+### Code Sandbox Live Site URL: https://codesandbox.io/s/react-components-practice-2su35
+
+<div align="center">
+  <img src="https://i.ibb.co/7rMZJXC/image.png" width=640px alt="Project Screentshot">
+</div>
+
 ## Objective of this Project:
 * To undesrtand JSX and Babel
 * To use Javascript Expressions in JSX
@@ -6,10 +12,6 @@
 * To create a React app from scratch that displays a dynamic greetings message, based on the time of the day _(it displays "Good Morning" if between midnight and 12PM, "Good Afternoon" if between 12PM and 6PM and "Good Night" if between 6PM and midnight)_
 * To dynamically change the color of the greetings message, based on the time of the day _(Morning = red, Afternoon = green, Night = blue)_
 * To split the main codebase into sevral components for modualrity and reusability
-
-<div align="center">
-  <img src="https://i.ibb.co/7rMZJXC/image.png" width=640px alt="Project Screentshot">
-</div>
 
 ## Steps I have followed:
 1. Installed `react` and `react-dom` dependencies and imported them inside the main `index.js` file:
